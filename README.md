@@ -5,6 +5,7 @@ The author mainly used Python to implement the data analysis functions and modul
 
 Before installing or using this plugin in QGIS, please install the software, packages or libraries (listed below) that support the framework and then to make some configurations following the instructions below.
 
+-------
 Software and Packages Support the Proposed Framework
 Software	       Detail Information
 QGIS 	           Version 2.18.21
@@ -31,12 +32,12 @@ R packages:
 1)	ggplot2
 2)	corrplot
 3)	spdep, sp
+-------
 
 After installing all the software and packages listed above, users can copy the code folder (“SustainAssess”) into the following place: “..\.qgis2\python\plugins”. 
 Then users open QGIS, under the menu “Plugins”, click “Manage and Install Plugins …”, the following window will open. 
 In the “Search” textbox, type in “spatial sustainability assessment”, choose it and activate it. 
+<img width="575" alt="Figure 3_21 Activate Spatial Sustainability Assessment Plugin in QGIS" src="https://user-images.githubusercontent.com/10712058/89110924-010da400-d41e-11ea-8065-9289841ecc38.png">
+
 Close the plugin management window, back to the QGIS main view, you can see a menu named “Sustainability.
-
-![alt text](http://url/to/img.png)
-
-
+<img width="318" alt="Figure 3_22 Sustainability Menu in QGIS" src="https://user-images.githubusercontent.com/10712058/89110923-010da400-d41e-11ea-8498-8328b2b64b9c.png">
