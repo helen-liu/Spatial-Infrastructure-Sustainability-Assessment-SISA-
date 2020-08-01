@@ -44,4 +44,4 @@ Close the plugin management window, back to the QGIS main view, you can see a me
 
 -------
 
-Detail User Instructions for SISA can be found (https://github.com/helen-liu/Spatial-Infrastructure-Sustainability-Assessment-SISA-/issues/2#issue-671238231)
+Detail User Instructions for SISA can be found ![SISA User Instruction](https://github.com/helen-liu/Spatial-Infrastructure-Sustainability-Assessment-SISA-/issues/2#issue-671238231)
