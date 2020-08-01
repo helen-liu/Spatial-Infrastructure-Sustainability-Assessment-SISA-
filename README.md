@@ -41,3 +41,7 @@ In the “Search” textbox, type in “spatial sustainability assessment”, ch
 
 Close the plugin management window, back to the QGIS main view, you can see a menu named “Sustainability.
 <img width="318" alt="Figure 3_22 Sustainability Menu in QGIS" src="https://user-images.githubusercontent.com/10712058/89110923-010da400-d41e-11ea-8498-8328b2b64b9c.png">
+
+-------
+
+Detail User Instructions for SISA can be found (https://github.com/helen-liu/Spatial-Infrastructure-Sustainability-Assessment-SISA-/issues/2#issue-671238231)
